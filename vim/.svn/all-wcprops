@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/trunk/dbus_gdb
+END
+gdb_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/dbus_gdb/gdb_helper.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/dbus_gdb/parser.py
+END
+gdb_dbus_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/dbus_gdb/gdb_dbus_server.py
+END
